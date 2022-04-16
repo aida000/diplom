@@ -1,0 +1,51 @@
+.form-control {
+  display: inline;
+  border: none;
+  padding: 0;
+  font-size: 20px;
+  font-weight: 400;
+  text-indent: 20px;
+  width: 75%;
+}
+
+.divNav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: monospace;
+  padding: 0 10px;
+}
+.fa-search {
+  color: #7474d7;
+  font-weight: 900;
+  font-size: 22px;
+}
+
+::placeholder {
+  color: #7474d7;
+  opacity: 1;
+}
+
+.btnSearch {
+  width: 11%;
+  border: none;
+  background: none;
+}
+
+.carousel {
+  width: 70%;
+  margin: 48px auto;
+  box-shadow: 0 0 10px 0 black;
+}
+
+.stud {
+  width: 653px;
+  height: 346px;
+  border-radius: 124px;
+  box-shadow: 0 0 10px 0 black;
+}
+td {
+  border-color: #fff;
+  border-style: solid;
+  border-width: 40px;
+}

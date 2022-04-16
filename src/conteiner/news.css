@@ -1,0 +1,46 @@
+.par {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 37px;
+  margin-top: 20px;
+}
+.child {
+  width: 27%;
+}
+.newsImg {
+  width: 410px;
+  height: 220px;
+}
+
+.text {
+  font-family: sans-serif;
+  margin: 10px;
+  text-align: center;
+}
+
+.p {
+  font-weight: bold;
+  font-size: 17px;
+}
+.date {
+  color: #808080a6;
+}
+
+.title {
+  text-align: center;
+  padding: 42px 0;
+}
+
+.fa-newspaper {
+  color: #7474d7;
+  font-size: 40px;
+}
+
+.miban {
+  margin: 0px auto;
+  width: 78%;
+  word-spacing: 10px;
+  line-height: 34px;
+}
